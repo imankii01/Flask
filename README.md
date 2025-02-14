@@ -32,8 +32,8 @@ This repository is a structured guide to learning **Flask** for backend developm
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/flask-learning-series.git
-   cd flask-learning-series
+   git clone https://github.com/imankii01/Falsk.git
+   cd Falsk
    ```
 
 2. **Set Up Virtual Environment & Install Dependencies**
