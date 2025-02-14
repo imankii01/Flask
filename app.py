@@ -11,6 +11,10 @@ def hello():
 def hii():
     return jsonify({'message': 'Hii, World!'})
 
+@app.route('/love', methods=['GET'])
+def love():
+    return jsonify({'message': 'love, World!'})
+
 if __name__ == '__main__':
     app.run(debug=True)
     
